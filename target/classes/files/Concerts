@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "artistName": "Ice Nine Kills",
+    "city": "Madrid",
+    "availableTickets": 100
+  },
+  {
+    "id": 2,
+    "artistName": "AugustD",
+    "city": "New York",
+    "availableTickets": 100
+  },
+  {
+    "id": 3,
+    "artistName": "Bring Me The Horizon",
+    "city": "Barcelona",
+    "availableTickets": 100
+  },
+  {
+    "id": 4,
+    "artistName": "BTS",
+    "city": "Seoul",
+    "availableTickets": 100
+  },
+  {
+    "id": 5,
+    "artistName": "All Time Low",
+    "city": "Detroit",
+    "availableTickets": 100
+  },
+  {
+    "id": 6,
+    "artistName": "The Neighbourhood",
+    "city": "Los Angeles",
+    "availableTickets": 100
+  },
+  {
+    "id": 7,
+    "artistName": "Lady Gaga",
+    "city": "Rome",
+    "availableTickets": 100
+  },
+  {
+    "id": 8,
+    "artistName": "We Came As Romans",
+    "city": "Munich",
+    "availableTickets": 100
+  },
+  {
+    "id": 9,
+    "artistName": "Franz Ferdinand",
+    "city": "London",
+    "availableTickets": 100
+  },
+  {
+    "id": 10,
+    "artistName": "The Score",
+    "city": "Dallas",
+    "availableTickets": 100
+  },
+  {
+    "id": 11,
+    "artistName": "Arrested Youth",
+    "city": "Paris",
+    "availableTickets": 100
+  },
+  {
+    "id": 12,
+    "artistName": "Sueco",
+    "city": "Barcelona",
+    "availableTickets": 100
+  },
+  {
+    "id": 13,
+    "artistName": "Steve Aoki",
+    "city": "Vancouver",
+    "availableTickets": 100
+  },
+  {
+    "id": 14,
+    "artistName": "Of Mice \u0026 Men ",
+    "city": "Oslo",
+    "availableTickets": 100
+  },
+  {
+    "id": 15,
+    "artistName": "The Used",
+    "city": "San Diego",
+    "availableTickets": 100
+  },
+  {
+    "id": 16,
+    "artistName": "Motionless in White",
+    "city": "Scranton",
+    "availableTickets": 100
+  },
+  {
+    "id": 17,
+    "artistName": "Bad Omens",
+    "city": "Paris",
+    "availableTickets": 100
+  },
+  {
+    "id": 18,
+    "artistName": "Electric Callboy",
+    "city": "Berlin",
+    "availableTickets": 100
+  },
+  {
+    "id": 19,
+    "artistName": "Asking Alexandria",
+    "city": "Seattle",
+    "availableTickets": 100
+  },
+  {
+    "id": 20,
+    "artistName": "Jungkook",
+    "city": "Qatar",
+    "availableTickets": 100
+  }
+]

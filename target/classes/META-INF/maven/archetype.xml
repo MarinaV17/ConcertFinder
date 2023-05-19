@@ -1,0 +1,9 @@
+<archetype>
+  <id>Marina_Vega_Concert_Finder_Consola</id>
+  <sources>
+    <source>src/main/java/App.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/AppTest.java</source>
+  </testSources>
+</archetype>
