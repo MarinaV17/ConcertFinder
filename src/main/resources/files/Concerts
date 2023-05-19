@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "artistName": "AugustD",
+    "artistName": "Fall Out Boy",
     "city": "New York",
     "localDate": "08/04/2022",
     "localTime": "21:00",
@@ -25,8 +25,8 @@
   },
   {
     "id": 4,
-    "artistName": "BTS",
-    "city": "Seoul",
+    "artistName": "Breathe Carolina",
+    "city": "Tokyo",
     "localDate": "16/06/2022",
     "localTime": "23:00",
     "availableTickets": 100
@@ -141,14 +141,6 @@
     "city": "Seattle",
     "localDate": "18/09/2023",
     "localTime": "00:00",
-    "availableTickets": 100
-  },
-  {
-    "id": 20,
-    "artistName": "Jungkook",
-    "city": "Qatar",
-    "localDate": "22/10/2023",
-    "localTime": "19:00",
     "availableTickets": 100
   },
   {

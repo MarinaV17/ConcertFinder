@@ -3,120 +3,152 @@
     "id": 1,
     "artistName": "Ice Nine Kills",
     "city": "Madrid",
+    "localDate": "04/03/2022",
+    "localTime": "20:00",
     "availableTickets": 100
   },
   {
     "id": 2,
-    "artistName": "AugustD",
+    "artistName": "Fall Out Boy",
     "city": "New York",
+    "localDate": "08/04/2022",
+    "localTime": "21:00",
     "availableTickets": 100
   },
   {
     "id": 3,
     "artistName": "Bring Me The Horizon",
     "city": "Barcelona",
+    "localDate": "12/05/2022",
+    "localTime": "22:00",
     "availableTickets": 100
   },
   {
     "id": 4,
-    "artistName": "BTS",
-    "city": "Seoul",
+    "artistName": "Breathe Carolina",
+    "city": "Tokyo",
+    "localDate": "16/06/2022",
+    "localTime": "23:00",
     "availableTickets": 100
   },
   {
     "id": 5,
     "artistName": "All Time Low",
     "city": "Detroit",
+    "localDate": "20/07/2022",
+    "localTime": "00:00",
     "availableTickets": 100
   },
   {
     "id": 6,
     "artistName": "The Neighbourhood",
     "city": "Los Angeles",
+    "localDate": "24/08/2022",
+    "localTime": "19:00",
     "availableTickets": 100
   },
   {
     "id": 7,
     "artistName": "Lady Gaga",
     "city": "Rome",
+    "localDate": "28/09/2022",
+    "localTime": "20:00",
     "availableTickets": 100
   },
   {
     "id": 8,
     "artistName": "We Came As Romans",
     "city": "Munich",
+    "localDate": "02/10/2022",
+    "localTime": "21:00",
     "availableTickets": 100
   },
   {
     "id": 9,
     "artistName": "Franz Ferdinand",
     "city": "London",
+    "localDate": "06/11/2022",
+    "localTime": "22:25",
     "availableTickets": 100
   },
   {
     "id": 10,
     "artistName": "The Score",
     "city": "Dallas",
+    "localDate": "10/12/2022",
+    "localTime": "23:30",
     "availableTickets": 100
   },
   {
     "id": 11,
     "artistName": "Arrested Youth",
     "city": "Paris",
+    "localDate": "14/01/2023",
+    "localTime": "21:21",
     "availableTickets": 100
   },
   {
     "id": 12,
     "artistName": "Sueco",
     "city": "Barcelona",
+    "localDate": "18/02/2023",
+    "localTime": "22:22",
     "availableTickets": 100
   },
   {
     "id": 13,
     "artistName": "Steve Aoki",
     "city": "Vancouver",
+    "localDate": "24/03/2023",
+    "localTime": "18:30",
     "availableTickets": 100
   },
   {
     "id": 14,
-    "artistName": "Of Mice \u0026 Men ",
+    "artistName": "Of Mice \u0026 Men",
     "city": "Oslo",
+    "localDate": "28/04/2023",
+    "localTime": "19:45",
     "availableTickets": 100
   },
   {
     "id": 15,
     "artistName": "The Used",
     "city": "San Diego",
+    "localDate": "02/05/2023",
+    "localTime": "20:50",
     "availableTickets": 100
   },
   {
     "id": 16,
     "artistName": "Motionless in White",
     "city": "Scranton",
-    "availableTickets": 100
+    "localDate": "06/06/2023",
+    "localTime": "21:55",
+    "availableTickets": 95
   },
   {
     "id": 17,
     "artistName": "Bad Omens",
     "city": "Paris",
-    "availableTickets": 100
-  },
-  {
-    "id": 18,
-    "artistName": "Electric Callboy",
-    "city": "Berlin",
+    "localDate": "10/07/2023",
+    "localTime": "22:00",
     "availableTickets": 100
   },
   {
     "id": 19,
     "artistName": "Asking Alexandria",
     "city": "Seattle",
+    "localDate": "18/09/2023",
+    "localTime": "00:00",
     "availableTickets": 100
   },
   {
-    "id": 20,
-    "artistName": "Jungkook",
-    "city": "Qatar",
+    "id": 21,
+    "artistName": "Steve Aoki",
+    "city": "Buenos Aires",
+    "localDate": "26/11/2023",
+    "localTime": "20:00",
     "availableTickets": 100
   }
 ]
